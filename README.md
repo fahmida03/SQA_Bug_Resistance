@@ -1,0 +1,1 @@
+# SQA_Bug_Resistance
